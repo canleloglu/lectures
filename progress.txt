@@ -1,2 +1,2 @@
-discrete: l1, l3, l4
-data: ch01 
+discrete: l1, l3, l4, l5
+data: ch01, ch02, ch 03 anlamadim turkcesini oku
